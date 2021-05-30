@@ -1,0 +1,7 @@
+version: "3.5"
+
+services:
+    anecdotes-image:
+        image: "rndmz/anecdotes-image"
+        build: .
+        
